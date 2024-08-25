@@ -10,7 +10,7 @@ This data set is collected from Kaggle https://www.kaggle.com/datasets/nadyinky/
 
 Our business objective is analyzing ratings, author recommendations, pos, neg feedback count and reviews to identify trends, patterns and address areas with lower ratings.
 
-Project Porfolio Contents
+Project Portfolio Contents
 
 - Background & Business Goal
   
